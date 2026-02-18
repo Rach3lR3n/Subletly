@@ -4,7 +4,7 @@ Website/App for Leasing for College Students
 - should be able to create posts about subleasing, comment, and message each other -- should include location information and appear on an interactive map
 
 Need to do: 
-Have Node and NPM to make a basic React template
+Check if you have Node and NPM to make a basic React template
 
 Tech Stack:
 
