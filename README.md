@@ -21,6 +21,7 @@ Rough Timeline:
 - Catherine: Created rough template of Database 
 
 3/4: 
+- Figure out how we want to encrypt messages, posts, and account information 
 - Figure out how creating a post will look
     - variables that are going to be needed
         - Address
