@@ -17,23 +17,44 @@ Rough Timeline:
 2/25: 
 - Create rough React template
 - Learn MapBox to help create the interactive map 
-- Rachel: create Figma for Subtletly (Web)
+- Rachel: create Penpot for Subtletly (Web)
+- Catherine: Created rough template of Database 
 
 3/4: 
 - Figure out how creating a post will look
     - variables that are going to be needed
+        - Address
+        - Price
+        - Dates
+- Create Code attached to Penpot UI/UX *Rachel
+- Rough template of Backend/Frontend Code to connect both 
 
 3/11: 
-
+- FINALIZE EVERYTHING THAT WILL BE CREATED (all pages)
+      - Home Page
+      - Create a Post Page
+      - Search Page
+      - Profile Page
+  Need to Add: 
+      - Messaging Page
+      - Post Page
+      - Possible Roommate Finder Page/Service 
 
 3/18 (spring break):
 
 3/25: 
+- Creating a Post and Post Page
+- Creating a Profile Page
 
 4/1: 
+- Creating a Search Browser 
 
 4/8:
+- Creating Messaging
+    - End to end encryption
+- Creating Roommate Finder
 
 4/15: 
+- Anything we need to finish up
 
 (maybe) End Date/Presentation: 4/22
