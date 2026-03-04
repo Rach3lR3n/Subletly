@@ -9,7 +9,7 @@ Check if you have Node and NPM to make a basic React template
 Tech Stack:
 
 - Front end: React
-- Database: Supabose
+- Database: Supabase
 - Backend: Python/FastAPI
 
 Rough Timeline: 
