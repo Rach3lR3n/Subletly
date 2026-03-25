@@ -37,9 +37,7 @@ Rough Timeline:
       - Search Page
       - Profile Page
   Need to Add: 
-      - Messaging Page
       - Post Page
-      - Possible Roommate Finder Page/Service 
 
 3/18 (spring break):
 
@@ -51,9 +49,7 @@ Rough Timeline:
 - Creating a Search Browser 
 
 4/8:
-- Creating Messaging
-    - End to end encryption
-- Creating Roommate Finder
+- Finalize Interactive Map
 
 4/15: 
 - Anything we need to finish up
