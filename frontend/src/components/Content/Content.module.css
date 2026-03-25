@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 var(--content-padding);
+}
+
+.content > * {
+    width: 100%;
+}
